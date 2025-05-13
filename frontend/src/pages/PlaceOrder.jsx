@@ -119,8 +119,10 @@ const PlaceOrder = () => {
               toast.success("Order placed successfully.");
               navigate("/orders");
             } else {
+              console.log(response.data);
+
               toast.error(
-                `Error placing order due to ${response.data.message}. Please try again.`
+                `Error placing order due to ${response.data.message}.`
               );
             }
           }
@@ -163,7 +165,9 @@ const PlaceOrder = () => {
       }
     } catch (error) {
       console.error("Error fetching product data:", error);
-      toast.error("Error placing order. Please try again.");
+      toast.error(
+        `Error placing order due to "${error.response.data.message}".`
+      );
     }
   };
 
