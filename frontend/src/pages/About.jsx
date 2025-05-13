@@ -18,26 +18,26 @@ const About = () => {
         />
         <div className="flex flex-col justify-center gap-6 md:w-2/4 text-gray-600">
           <p>
-            At Mahee, we believe fashion should be more than just a trend — it
+            At Wearo, we believe fashion should be more than just a trend — it
             should be a reflection of your individuality. Born from a dream to
-            make stylish, high-quality clothing accessible to everyone, Mahee is
+            make stylish, high-quality clothing accessible to everyone, Wearo is
             not just an e-commerce platform, but a vision of self-expression,
             confidence, and creativity. Our journey began with a simple idea:
             everyone deserves to wear what makes them feel powerful,
-            comfortable, and uniquely themselves.Mahee is here to walk that
+            comfortable, and uniquely themselves.Wearo is here to walk that
             journey with you.
           </p>
           <p>
             Looking ahead, we have big dreams — from launching our own exclusive
             collections to introducing personalized styling tools, sustainable
             fashion initiatives, and immersive shopping experiences. We want
-            Mahee to be a place where fashion meets purpose, where innovation
+            Wearo to be a place where fashion meets purpose, where innovation
             meets emotion. As we grow, our mission remains the same: to make
             fashion inclusive.
           </p>
           <b className="text-gray-800">Our Mission</b>
           <p>
-            At Mahee, our mission is to redefine the way people experience
+            At Wearo, our mission is to redefine the way people experience
             fashion by making it more accessible, inclusive, and empowering for
             everyone. We’re here to inspire confidence through clothing —
             curating styles that not only follow trends but celebrate
@@ -56,7 +56,7 @@ const About = () => {
         <div className="border px-10 md:px-16 py-8 sm:py-20 flex flex-col gap-5">
           <b>Quality Assurance:</b>
           <p className="text-gray-600">
-            At Mahee, quality isn’t just a checkbox — it’s a promise. Every
+            At Wearo, quality isn’t just a checkbox — it’s a promise. Every
             piece we offer goes through a meticulous quality assurance process
             to ensure it meets the highest standards in fabric, stitching, and
             finish. We work closely with trusted manufacturers and designers who
@@ -70,11 +70,11 @@ const About = () => {
           <b>Convenience:</b>
           <p className="text-gray-600">
             Shopping should be simple, and that's exactly what we deliver at
-            Mahee. From easy navigation to smart filters and a clean user
+            Wearo. From easy navigation to smart filters and a clean user
             experience, finding your perfect outfit is faster than ever. With
             quick checkout, multiple payment methods, and order tracking, we
             make sure everything flows smoothly. Hassle-free returns and
-            responsive support? Already included. We've built Mahee to save you
+            responsive support? Already included. We've built Wearo to save you
             time while keeping things stylish.
           </p>
         </div>

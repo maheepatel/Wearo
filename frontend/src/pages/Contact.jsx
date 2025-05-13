@@ -21,10 +21,10 @@ const Contact = () => {
             6th Block, <br /> Koramangala, Bengaluru, India
           </p>
           <p className="text-gray-500">
-            Tel: (+91) 7000199123 <br /> Email: admin@mahee.com
+            Tel: (+91) 7000199123 <br /> Email: admin@wearo.com
           </p>
           <p className="font-semibold text-xl text-gray-600">
-            Careers at Mahee
+            Careers at Wearo
           </p>
           <p className="font-semibold text-xl text-gray-600">
             Learn more about our teams and job openings.
